@@ -1,0 +1,7 @@
+.input-validation-error{
+      border: 1px solid #dc3545;   
+}
+.validation-summary-errors
+{
+    color: #dc3545;
+}
